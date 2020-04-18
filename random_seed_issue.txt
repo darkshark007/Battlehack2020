@@ -1,0 +1,49 @@
+https://github.com/battlecode/battlehack20/issues/107
+
+Turn 15
+[Robot 28 BLACK log] Setting Random Seed!
+[Robot 28 BLACK log] Next 5 Randoms: 1, 9, 8, 2, 8
+[Robot 29 WHITE log] Next 5 Randoms: 1, 8, 11, 9, 2
+[Robot WHITE HQ log] Next 5 Randoms: 14, 7, 14, 12, 7
+[Robot BLACK HQ log] Next 5 Randoms: 15, 4, 9, 7, 5
+[Robot 2 WHITE log] Next 5 Randoms: 12, 8, 5, 9, 15
+[Robot 3 BLACK log] Next 5 Randoms: 3, 12, 0, 6, 0
+[Robot 4 BLACK log] Next 5 Randoms: 15, 8, 1, 13, 11
+[Robot 6 WHITE log] Next 5 Randoms: 3, 7, 11, 9, 9
+[Robot 7 BLACK log] Next 5 Randoms: 11, 0, 9, 13, 1
+
+
+Turn 16
+[Robot 31 BLACK log] Setting Random Seed!
+[Robot 31 BLACK log] Next 5 Randoms: 1, 9, 8, 2, 8
+[Robot BLACK HQ log] Next 5 Randoms: 1, 8, 11, 9, 2
+[Robot WHITE HQ log] Next 5 Randoms: 7, 14, 12, 7, 7
+[Robot 2 WHITE log] Next 5 Randoms: 4, 9, 7, 5, 12
+[Robot 3 BLACK log] Next 5 Randoms: 12, 8, 5, 9, 15
+[Robot 4 BLACK log] Next 5 Randoms: 3, 12, 0, 6, 0
+[Robot 6 WHITE log] Next 5 Randoms: 15, 8, 1, 13, 11
+[Robot 7 BLACK log] Next 5 Randoms: 3, 7, 11, 9, 9
+[Robot 8 BLACK log] Next 5 Randoms: 11, 0, 9, 13, 1
+
+
+Turn 17
+[Robot 32 BLACK log] Setting Random Seed!
+[Robot 32 BLACK log] Next 5 Randoms: 1, 9, 8, 2, 8
+[Robot 33 WHITE log] Next 5 Randoms: 1, 8, 11, 9, 2
+[Robot WHITE HQ log] Next 5 Randoms: 14, 7, 14, 12, 7
+[Robot BLACK HQ log] Next 5 Randoms: 15, 4, 9, 7, 5
+[Robot 2 WHITE log] Next 5 Randoms: 12, 8, 5, 9, 15
+[Robot 3 BLACK log] Next 5 Randoms: 3, 12, 0, 6, 0
+[Robot 4 BLACK log] Next 5 Randoms: 15, 8, 1, 13, 11
+[Robot 6 WHITE log] Next 5 Randoms: 3, 7, 11, 9, 9
+[Robot 7 BLACK log] Next 5 Randoms: 11, 0, 9, 13, 1
+
+
+
+
+
+
+1, 9, 8, 2, 8 ... 1, 8, 11, 9, 2 ... 14, 7, 14, 12, 7 ... 15, 4, 9, 7, 5 ... 12,        8, 5, 9, 15 ... 3, 12, 0, 6, 0 ... 15, 8, 1, 13, 11 ... 3, 7, 11, 9, 9 ... 11, 0, 9, 13, 1 ...
+1, 9, 8, 2, 8 ... 1, 8, 11, 9, 2 ...     7, 14, 12, 7, 7 ...  4, 9, 7, 5,    12 ... 12, 8, 5, 9, 15 ... 3, 12, 0, 6, 0 ... 15, 8, 1, 13, 11 ... 3, 7, 11, 9, 9 ... 11, 0, 9, 13, 1 ...
+1, 9, 8, 2, 8 ... 1, 8, 11, 9, 2 ... 14, 7, 14, 12, 7 ... 15, 4, 9, 7, 5 ...        12, 8, 5, 9, 15 ... 3, 12, 0, 6, 0 ... 15, 8, 1, 13, 11 ... 3, 7, 11, 9, 9 ... 11, 0, 9, 13, 1 ...
+
